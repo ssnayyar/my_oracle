@@ -1,0 +1,1 @@
+default['my_oci']['java_version'] = "1.7"
